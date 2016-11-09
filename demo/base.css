@@ -1,0 +1,13 @@
+ul,body,a,p,h1,h2,h3,h4,h5,h6,p,pre,li,ol,dl,dt,dd,form,div,img,input,textarea,select
+{
+	margin:0 auto; padding: 0;
+	list-style:none;
+	font-family:"微软雅黑";
+ } 
+ .warpper{
+ 	width:100%;
+ 	min-width:1170px;
+ }
+ a{
+	text-decoration: none;
+}
